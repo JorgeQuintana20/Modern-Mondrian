@@ -1,5 +1,5 @@
 body, html {
-    background-color: #f6f6f6;
+    background-color: #4e084b;
 }
 
 #painting {
@@ -17,6 +17,18 @@ body, html {
 #bigbox {
     width: 290px;
     height: 290px;
+}
+.green {
+    background-color: green;
+}
+.redtint {
+    background-color: #c94d4d
+}
+.grey {
+    background-color: grey;
+}
+.cyan {
+    background-color: cyan;
 }
 .red {
     background-color: red;   
@@ -53,4 +65,23 @@ body, html {
 #bottomcolumn {
     height: 100px;
     width: 10px;
+}
+#bottomrow{
+    width: 200px;
+    height: 100px;
+}
+#bottomleft {
+    height: 100px;
+    width: 100px;
+}
+.left{
+    float: left;
+}
+#bottomright {
+    height: 100px;
+    width: 90px
+}
+#leftcolumn {
+    width: 10px;
+    height: 100px;
 }
